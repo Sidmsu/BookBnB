@@ -19,9 +19,9 @@
 - **Secure and Error-Handled**: Implements middleware for error handling and validation.
 
 ## Tech Stack
-- **Frontend**: EJS (Embedded JavaScript), CSS, JavaScript
+- **Frontend**: EJS, CSS, JavaScript
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB (or specify if using another)
+- **Database**: MongoDB
 - **Other Libraries**: 
   - `ExpressError` for custom error handling
   - `wrapasync.js` for async error handling
